@@ -1,5 +1,5 @@
 # Presence_Insights_Dashboard
-Project Objective
+Project Objective :
 To provide HR at AtliQ Technologies with clear, data-driven insights into employee attendance behavior using real attendance data from April to June 2022. The report aims to improve workforce planning, monitor leave trends, and identify irregular attendance patterns.
 
 Source: Real employee attendance data

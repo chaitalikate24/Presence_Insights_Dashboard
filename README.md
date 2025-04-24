@@ -10,12 +10,14 @@ Fields Included:
 Employee Code, Name
 
 Daily Attendance Status (e.g., P, WFH, SL, HPL, etc.)
+
 DAX Measures Created
 Presence %, WFH %, Sick Leave %
 
 Attendance count by employee, department, and day of the week
 
 Dynamic KPIs using DAX with time intelligence
+
 Business Impact
 Helped HR understand attendance behavior and leave patterns
 

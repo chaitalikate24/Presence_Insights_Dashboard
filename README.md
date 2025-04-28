@@ -9,13 +9,13 @@ Period Covered: 01-Apr-2022 to 17-Jun-2022
 
 Fields Included:
 
-Employee Code, Name
+           -Employee Code, Name
 
-Daily Attendance Status (e.g., P, WFH, SL, HPL, etc.)
+          - Daily Attendance Status (e.g., P, WFH, SL, HPL, etc.)
 
 
 DAX Measures Created
-Presence %, WFH %, Sick Leave %
+            -Presence %, WFH %, Sick Leave %
 
 
 Attendance count by employee, department, and day of the week
@@ -24,7 +24,8 @@ Attendance count by employee, department, and day of the week
 Dynamic KPIs using DAX with time intelligence
 
 
-Business Impact
-Helped HR understand attendance behavior and leave patterns
+Business Impact : 
 
-Supported better planning for staffing, leave policy revisions, and team engagement strategies
+               -Helped HR understand attendance behavior and leave patterns
+
+              -Supported better planning for staffing, leave policy revisions, and team engagement strategies

@@ -14,8 +14,7 @@ Fields Included:
           - Daily Attendance Status (e.g., P, WFH, SL, HPL, etc.)
 
 
-DAX Measures Created
-            -Presence %, WFH %, Sick Leave %
+DAX Measures Created - Presence %, WFH %, Sick Leave %
 
 
 Attendance count by employee, department, and day of the week
